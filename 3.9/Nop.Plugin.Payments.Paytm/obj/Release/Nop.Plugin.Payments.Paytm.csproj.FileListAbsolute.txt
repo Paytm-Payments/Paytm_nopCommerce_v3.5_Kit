@@ -1,1 +1,0 @@
-C:\Users\mayank1.gupta\Desktop\New folder\Nop.Plugin.Payments.Paytm\obj\Release\Nop.Plugin.Payments.Paytm.csprojResolveAssemblyReference.cache
